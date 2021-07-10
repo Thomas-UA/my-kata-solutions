@@ -4,6 +4,3 @@ def sum_digits(number):
     for i in lst:
         a += int(i)
     return a
-
-sum_digits(10)
-sum_digits(-68)
