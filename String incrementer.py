@@ -41,7 +41,7 @@ def increment_string(strng):
     return s_l[::-1] + i_l[::-1]
 
     '''
-Below the good from something, his/her code is good 👍
+Below the good code from somebody, his/her code is good 👍
 def increment_string(strng):
     head = strng.rstrip('0123456789')
     tail = strng[len(head):]
